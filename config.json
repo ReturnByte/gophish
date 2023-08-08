@@ -1,6 +1,6 @@
 {
 	"admin_server": {
-		"listen_url": "gophish-neon.vercel.app",
+		"listen_url": "https://gophish-7dfnf3n5j-returnbyte.vercel.app",
 		"use_tls": true,
 		"cert_path": "gophish_admin.crt",
 		"key_path": "gophish_admin.key",
